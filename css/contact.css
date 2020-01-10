@@ -1,0 +1,87 @@
+.nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: pink;
+  position: -webkit-sticky;
+position: sticky;
+top: 0;
+}
+li{
+  float: left;
+}
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 32px;
+  text-decoration: none;
+  font-size: 40px;
+}
+img{
+  height:40%;
+  width: 40%;
+  display:block;
+  float: right;
+  padding: 10px;
+}
+p{
+  text-align: left;
+  font-size:20px ;
+}
+a {
+  text-decoration: none;
+}
+h2{
+      text-align: center;
+      font-size: 50px;
+      color: black;
+}
+h3{
+    text-align: center;
+      font-size: 35px;
+}
+h4{
+  text-align: left;
+  font-size:28px;
+}
+    .aboutli{
+      position: absolute;
+      right: 150px;
+      text-align: right;
+      text-decoration: none;
+      font-size: 40px;
+    }
+hr{
+     display: block;
+     overflow: hidden;
+     border-style: inset;
+     border-width: 1px;
+ }
+ footer {
+     position: absolute;
+     bottom: 70px;
+     height: 1px;
+     width: 100%;
+   }
+   h5{
+     font-size: 16px
+     color: grey;
+     font-style: italic;
+     text-align: right;
+   }
+   aside{
+   	display: block;
+   	float: right;
+   	width: auto;
+    height: auto;
+   }
+   table, th {
+     border: none;
+     font-size: 28px;
+   }
+   table {
+     border-collapse: collapse;
+     width: 55%;
+   }

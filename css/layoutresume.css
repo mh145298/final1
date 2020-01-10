@@ -1,0 +1,122 @@
+.nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: pink;
+  position: -webkit-sticky;
+position: sticky;
+top: 0;
+}
+
+li{
+  float: left;
+}
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 32px;
+  text-decoration: none;
+  font-size: 40px;
+}
+img{
+  height:40%;
+  width: 40%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  text-align: left;
+  font-size:16px ;
+  color: grey;
+  padding-left: 150px;
+}
+a {
+  text-decoration: none;
+}
+h2{
+      text-align: center;
+      font-size: 50px;
+      color: black;
+
+}
+h3{
+      text-align: left;
+      font-size: 35px;
+      text-decoration: underline;
+      padding-left: 100px;
+}
+h4{
+  text-align: left;
+  font-size:28px;
+  padding-left: 100px;
+}
+
+.leftdiv
+    {
+      width: 400px;
+    float: left;
+    height: 75px;
+    margin: -25px;
+    color: black;
+    }
+   .middlediv
+    {
+    float: left;
+color: black;
+margin: 25;
+    }
+    .rightdiv
+    {
+      width: 400px;
+    float: left;
+    height: 75px;
+    margin: -25px;
+    color: black;
+    }
+    div{
+    padding : 1.5%;
+    color: white;
+    background-color: 009900;
+    width: 30%;
+    }
+    .aboutli{
+      position: absolute;
+      right: 150px;
+      text-align: right;
+      text-decoration: none;
+      font-size: 40px;
+    }
+hr{
+  display: block;
+     margin-before: 0.5em;
+     margin-after: 0.5em;
+     margin-start: auto;
+     margin-end: auto;
+     overflow: hidden;
+     border-style: inset;
+     border-width: 1px;
+ }
+.me{
+  float: right;
+  padding-right: 300px;
+  padding-top: 75px;
+  height: 250px;
+  width: 200px;
+}
+ul{
+          padding-left: 150px;
+}
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+footer {
+    position: absolute;
+    bottom: -50px;
+    height: 1px;
+    width: 100%;
+  }
