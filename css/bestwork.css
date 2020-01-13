@@ -63,6 +63,7 @@ div p{
   position: absolute;
   visibility: visible;
   right: 65px;
+  text-align: left;
 }
 
 :root{
